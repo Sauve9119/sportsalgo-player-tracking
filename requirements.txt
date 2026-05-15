@@ -1,0 +1,15 @@
+# SportsAlgo × ClayGrounds Hackathon
+# Player Tracking & Automatic Identity Mapping
+# Team: [Your Team Name]
+
+ultralytics>=8.0.0        # YOLOv8 detection
+supervision>=0.18.0       # ByteTrack + annotation utilities
+torch>=2.0.0              # PyTorch backend
+torchvision>=0.15.0       # Image transforms
+torchreid                 # OSNet person re-ID (install from source)
+faiss-cpu>=1.7.4          # Vector similarity search
+mediapipe>=0.10.0         # Pose estimation (gait features)
+opencv-python>=4.8.0      # Video I/O + image processing
+numpy>=1.24.0
+scipy>=1.11.0
+Pillow>=10.0.0
