@@ -125,6 +125,3 @@ output/
 | MediaPipe | Pose / gait estimation |
 | FAISS | Vector similarity search |
 | OpenCV | Video I/O, image processing |
-
-## Team
-[Your Team Name] — SportsAlgo × ClayGrounds Hackathon
